@@ -1,0 +1,2 @@
+# proyecto-simulacion
+Redes neuronales
